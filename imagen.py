@@ -75,7 +75,6 @@ for i in range(0,rep):
             grados[i]=22.5
 for i in range(0,rep):
     print(grados[i])
-#probando git
 fc=1000
 t=np.arange(0,1/fc,(1/fc)/1000)
 #t=np.arange(100,10/fc,(1/fc)/100)
