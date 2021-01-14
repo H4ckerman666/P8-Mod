@@ -37,6 +37,7 @@ print(len(data_str))
 mul=len(data)
 mul2=mul
 #Si no es multiplo de n
+#probando
 if mul%3!=0:
     while True:
         mul=mul+1
